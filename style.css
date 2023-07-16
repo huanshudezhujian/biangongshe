@@ -11,6 +11,24 @@ body{
     overflow-x:hidden;
 }
 
+a{
+    text-decoration:none;
+}
+
+.down{
+    width:auto;
+    height:1000px;
+}
+
+.download_btn{
+    text-align: center;
+    height:40px;
+    width:100px;
+    border-radius:15px;
+    background-color: black;
+    color:white;
+}
+
 .about{
     display: flex;
     justify-content: center;
